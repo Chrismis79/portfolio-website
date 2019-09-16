@@ -28,18 +28,18 @@ _ Watch this walk through video:  https://youtu.be/P2Y9W29kcjs
 
 - [x ] Unzip the code and copy the site to your git repository that you just set up
   * Note that we won't be utilizing the pre processed CSS structure, you can just ignore any folder with LESS or SASS (SCSS) in it.
-- [ ] Work on the MVP requirements listed below
+- [ x] Work on the MVP requirements listed below
 
 ### Follow these steps for completing your project after your MVP is completed:
 
 - [ x] Submit a Pull-Request to merge `<firstName-lastName>` Branch into master (student's Repo). **Please don't merge your own pull request**
 - [x ] Add your Project Manager as a Reviewer on the Pull-request
-- [ ] PM then will count the HW as done by merging the branch back into master.
+- [ x] PM then will count the HW as done by merging the branch back into master.
 
 ## MVP Requirements
 
 - [x ] Study the code base and identify both responsive units and where media queries were used.  Take notes on anything that confuses you or interesting things you find.  Share this information in your standup meeting with your group
-- [ ] Customize the template to you 
+- [x ] Customize the template to you 
 	- [ x] Update the title tag match your name
 	- [ x] Update the place holder content throughout the template to your information
 		* Some templates are much larger than others, you don't need to fill in every little div with information, just try to get the site representing you and your work 
